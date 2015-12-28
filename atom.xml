@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[enkows]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://enkows.github.io/"/>
+  <updated>2014-05-04T01:27:45.000Z</updated>
+  <id>http://enkows.github.io/</id>
+  
+  <author>
+    <name><![CDATA[enkows]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[event.offset for Firefox]]></title>
+    <link href="http://enkows.github.io/2014/05/04/eventoffset-for-firefox/"/>
+    <id>http://enkows.github.io/2014/05/04/eventoffset-for-firefox/</id>
+    <published>2014-05-04T01:25:14.000Z</published>
+    <updated>2014-05-04T01:27:45.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="https://gist.github.com/Enkows/10732289" target="_blank" rel="external">https://gist.github.com/Enkows/10732289</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><a href="https://gist.github.com/Enkows/10732289" target="_blank" rel="external">https://gist.github.com/Enkows/10732289</a></p>
+]]>
+    </summary>
+    
+      <category term="Javascript" scheme="http://enkows.github.io/tags/Javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[iOS 7 iPad safari landscape height bug]]></title>
+    <link href="http://enkows.github.io/2014/04/05/ipad-safari-landscape-height-bug/"/>
+    <id>http://enkows.github.io/2014/04/05/ipad-safari-landscape-height-bug/</id>
+    <published>2014-04-04T19:12:33.000Z</published>
+    <updated>2014-04-04T19:53:17.000Z</updated>
+    <content type="html"><![CDATA[<p>iOS 7 iPad safari 使用横屏模式访问页面时，会出现 <code>window.innerHeight - window.outerHeight ＝ -20</code> 的 BUG，造成本来设置为 <code>height: 100%</code> 的页面底部超出浏览器可视范围 20px。具体的解决方案见 <a href="http://stackoverflow.com/questions/19012135/ios-7-ipad-safari-landscape-innerheight-outerheight-layout-issue" target="_blank" rel="external">stackoverflow</a>。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>iOS 7 iPad safari 使用横屏模式访问页面时，会出现 <code>window.innerHeight - window.outerHeight ＝ -20</code> 的 BUG，造成本来设置为 <code>height: 100%</code> 的页面底]]>
+    </summary>
+    
+      <category term="iPad" scheme="http://enkows.github.io/tags/iPad/"/>
+    
+      <category term="移动开发" scheme="http://enkows.github.io/categories/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://enkows.github.io/2014/04/05/hello-world/"/>
+    <id>http://enkows.github.io/2014/04/05/hello-world/</id>
+    <published>2014-04-04T18:42:13.000Z</published>
+    <updated>2014-04-04T19:07:25.000Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://zespia.tw/hexo" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://zespia.tw/hexo/docs" target="_blank" rel="external">documentation</a> to learn how to use.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://zespia.tw/hexo" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://z]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
